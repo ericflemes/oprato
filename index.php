@@ -1,4 +1,3 @@
 <?php
-echo 'O prato';
-echo '</br>teste';
+echo 'oprato a index';
 ?>
