@@ -1,3 +1,5 @@
 <?php
-echo 'Hello word';
+echo 'O prato';
+
+echo '</br>teste';
 ?>
